@@ -7,3 +7,4 @@ Script names have convention. It goes as this (`x` specifies the order):
 * 2x - configuration scripts (for example setup `oh-my-zsh` config)
 
 Scripts `21-enable-dynamic-disk` is dependant on your partition setup, specifically if some of your partitions are dynamic.
+**Some of the scripts assume names and mount points of partitions!**
