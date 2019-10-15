@@ -23,6 +23,8 @@ pacman -Rs hexchat --noconfirm
 pacman -Rs simple-scan --noconfirm
 pacman -Rs totem --noconfirm
 pacman -Rs transmission-gtk --noconfirm
+pacman -Rs evolution --noconfirm
+pacman -Rs steam-manjaro --noconfirm
 
 echo -e "> Rebooting..."
 reboot

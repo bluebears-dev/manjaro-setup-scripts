@@ -22,5 +22,6 @@ pacman -Sy ddrescue --noconfirm
 pacman -Sy mpv --noconfirm
 pacman -Sy discord --noconfirm
 pacman -Sy zsh-completions --noconfirm
+pacman -Sy geary --noconfirm
 
 
